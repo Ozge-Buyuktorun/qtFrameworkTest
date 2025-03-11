@@ -2,9 +2,7 @@
 
 Welcome to the **QA & Testing Education App**, a desktop application designed to teach **Software Testing Life Cycle (STLC)** processes, methodologies, and best practices.  
 Built with **Python** and **Qt Framework (Qt6)**, this tool offers an interactive way to explore testing concepts and evaluate your knowledge through quizzes.
-![
-    
-](image.png)
+![alt text](image.png)
 ## 🎬 Demo
 
 ![App Demo](assets/qtFramework.gif)
